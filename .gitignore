@@ -1,0 +1,7 @@
+*~
+Debug
+*.sdf
+*.sln
+*.vs
+*.vcxproj
+*.filters
