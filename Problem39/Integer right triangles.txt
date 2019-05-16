@@ -1,0 +1,6 @@
+a+b+c = p
+a^2 + b^2 = c^2
+a+b>c
+得到（sqrt(2) -1）p<= c < p/2
+从大到小遍历p，c
+a,b = (p-c ± sqrt(c^2-p^2+2pc))/2;
